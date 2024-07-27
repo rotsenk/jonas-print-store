@@ -7,8 +7,10 @@ function TopMenu({ w3_open }) {
         <button className="w3-button w3-padding-16 w3-left" onClick={w3_open}>
           ☰
         </button>
-        <div className="w3-right w3-padding-16">Mail</div>
-        <div className="w3-center w3-padding-16">My Food</div>
+        <div className="w3-right w3-padding-16">
+          <img src="src/assets/jonasPrint-logo.png" alt="Logo" style={{ height: "40px" }} />
+        </div>
+        <div className="w3-center w3-padding-16">Jonas Print Store</div>
       </div>
     </div>
   );
