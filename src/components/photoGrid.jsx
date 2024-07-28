@@ -3,8 +3,8 @@ import React from "react";
 function PhotoGrid() {
   return (
     <>
-      <h3 className="w3-padding-32 w3-center">Our Work</h3>
-      <div className="w3-row-padding w3-padding-16 w3-center" id="food">
+      <div className="w3-row-padding w3-padding-16 w3-center" id="ourwork">
+        <h3 className="w3-padding-32 w3-center">Our Work</h3>
         <div className="w3-quarter">
           <img
             src="/images/charm-style.png"
@@ -49,19 +49,11 @@ function PhotoGrid() {
           <h3>Glamour Salon</h3>
         </div>
         <div className="w3-quarter">
-          <img
-            src="/images/bdc.png"
-            alt="bdc-logo"
-            style={{ width: "100%" }}
-          />
+          <img src="/images/bdc.png" alt="bdc-logo" style={{ width: "100%" }} />
           <h3>Building Dreams</h3>
         </div>
         <div className="w3-quarter">
-          <img
-            src="/images/ssc.png"
-            alt="ssc-logo"
-            style={{ width: "100%" }}
-          />
+          <img src="/images/ssc.png" alt="ssc-logo" style={{ width: "100%" }} />
           <h3>Solid Structures</h3>
         </div>
         <div className="w3-quarter">
