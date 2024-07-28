@@ -8,7 +8,7 @@ function TopMenu({ w3_open }) {
           ☰
         </button>
         <div className="w3-right w3-padding-16">
-          <img src="src/assets/jonasPrint-logo.png" alt="Logo" style={{ height: "40px" }} />
+          <img src="/src/assets/jonasPrint-logo.png" alt="Logo" style={{ height: "40px" }} />
         </div>
         <div className="w3-center w3-padding-16">Jonas Print Store</div>
       </div>
