@@ -3,50 +3,75 @@ import React from "react";
 function PhotoGrid() {
   return (
     <>
+      <h3 className="w3-padding-32 w3-center">Our Work</h3>
       <div className="w3-row-padding w3-padding-16 w3-center" id="food">
         <div className="w3-quarter">
-          <img src="src/assets/logos/charm-style.png" alt="charm-style" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/charm-style.png"
+            alt="charm-style"
+            style={{ width: "100%" }}
+          />
           <h3>Charm Style</h3>
-          <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
         <div className="w3-quarter">
-          <img src="src/assets/logos/colorcraft-logo.png" alt="colorcraft-logo" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/colorcraft-logo.png"
+            alt="colorcraft-logo"
+            style={{ width: "100%" }}
+          />
           <h3>Colorcraft</h3>
-          <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
         <div className="w3-quarter">
-          <img src="src/assets/logos/iap-logo.png" alt="iap-logo" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/iap-logo.png"
+            alt="iap-logo"
+            style={{ width: "100%" }}
+          />
           <h3>Innovative A. Projects</h3>
-          <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
           <p>What else?</p>
         </div>
         <div className="w3-quarter">
-          <img src="src/assets/logos/sharp-stylish.png" alt="sharp-stylish-logo" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/sharp-stylish.png"
+            alt="sharp-stylish-logo"
+            style={{ width: "100%" }}
+          />
           <h3>Sharp Stylish</h3>
-          <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
       </div>
 
       <div className="w3-row-padding w3-padding-16 w3-center">
         <div className="w3-quarter">
-          <img src="src/assets/logos/glamour-salon.png" alt="glamour-salon" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/glamour-salon.png"
+            alt="glamour-salon"
+            style={{ width: "100%" }}
+          />
           <h3>Glamour Salon</h3>
-          <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
         <div className="w3-quarter">
-          <img src="src/assets/logos/bdc.png" alt="bdc-logo" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/bdc.png"
+            alt="bdc-logo"
+            style={{ width: "100%" }}
+          />
           <h3>Building Dreams</h3>
-          <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
         <div className="w3-quarter">
-          <img src="src/assets/logos/ssc.png" alt="ssc-logo" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/ssc.png"
+            alt="ssc-logo"
+            style={{ width: "100%" }}
+          />
           <h3>Solid Structures</h3>
-          <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
         <div className="w3-quarter">
-          <img src="src/assets/logos/buildwise-logo.png" alt="buildwise-logo" style={{ width: "100%" }} />
+          <img
+            src="src/assets/logos/buildwise-logo.png"
+            alt="buildwise-logo"
+            style={{ width: "100%" }}
+          />
           <h3>Buildwise C.</h3>
-          <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
         </div>
       </div>
 
