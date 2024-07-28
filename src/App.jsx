@@ -26,8 +26,8 @@ function App() {
         <hr id="about" />
         <About />
         <hr />
-        <Footer />
       </div>
+      <Footer />
     </div>
   );
 }
