@@ -25,7 +25,7 @@ function Footer() {
               rel="noopener noreferrer"
             >
               <img
-                src="/src/assets/logos/whatsapp-logo.png"
+                src="/images/whatsapp-logo.png"
                 className="w3-left w3-margin-right"
                 style={{ width: "15%" }}
                 alt="WhatsApp"

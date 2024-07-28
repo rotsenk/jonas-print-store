@@ -7,7 +7,7 @@ function PhotoGrid() {
       <div className="w3-row-padding w3-padding-16 w3-center" id="food">
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/charm-style.png"
+            src="/images/charm-style.png"
             alt="charm-style"
             style={{ width: "100%" }}
           />
@@ -15,7 +15,7 @@ function PhotoGrid() {
         </div>
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/colorcraft-logo.png"
+            src="/images/colorcraft-logo.png"
             alt="colorcraft-logo"
             style={{ width: "100%" }}
           />
@@ -23,7 +23,7 @@ function PhotoGrid() {
         </div>
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/iap-logo.png"
+            src="/images/iap-logo.png"
             alt="iap-logo"
             style={{ width: "100%" }}
           />
@@ -32,7 +32,7 @@ function PhotoGrid() {
         </div>
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/sharp-stylish.png"
+            src="/images/sharp-stylish.png"
             alt="sharp-stylish-logo"
             style={{ width: "100%" }}
           />
@@ -43,7 +43,7 @@ function PhotoGrid() {
       <div className="w3-row-padding w3-padding-16 w3-center">
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/glamour-salon.png"
+            src="/images/glamour-salon.png"
             alt="glamour-salon"
             style={{ width: "100%" }}
           />
@@ -51,7 +51,7 @@ function PhotoGrid() {
         </div>
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/bdc.png"
+            src="/images/bdc.png"
             alt="bdc-logo"
             style={{ width: "100%" }}
           />
@@ -59,7 +59,7 @@ function PhotoGrid() {
         </div>
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/ssc.png"
+            src="/images/ssc.png"
             alt="ssc-logo"
             style={{ width: "100%" }}
           />
@@ -67,7 +67,7 @@ function PhotoGrid() {
         </div>
         <div className="w3-quarter">
           <img
-            src="/src/assets/logos/buildwise-logo.png"
+            src="/images/buildwise-logo.png"
             alt="buildwise-logo"
             style={{ width: "100%" }}
           />
