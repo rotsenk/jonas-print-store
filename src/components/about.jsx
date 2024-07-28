@@ -6,7 +6,7 @@ function About() {
       <h3>About Jonas Print</h3>
       <br />
       <img
-        src="src/assets/cover.jpg"
+        src="/src/assets/cover.jpg"
         alt="Me"
         className="w3-image"
         style={{ display: "block", margin: "auto" }}
