@@ -10,7 +10,7 @@ function Sidebar({ sidebarVisible, w3_close }) {
         Close Menu
       </button>
       <a href="#food" onClick={w3_close} className="w3-bar-item w3-button">
-        Food
+        Our work
       </a>
       <a href="#about" onClick={w3_close} className="w3-bar-item w3-button">
         About
