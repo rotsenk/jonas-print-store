@@ -28,7 +28,6 @@ function PhotoGrid() {
             style={{ width: "100%" }}
           />
           <h3>Innovative A. Projects</h3>
-          <p>What else?</p>
         </div>
         <div className="w3-quarter">
           <img
